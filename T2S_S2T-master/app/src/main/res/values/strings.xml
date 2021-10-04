@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">T2S&amp;S2T11</string>
+    <string-array name="lang">
+        <item>US</item>
+        <item>UK</item>
+        <item>CANADA</item>
+        <item>FRENCH</item>
+        <item>ITALIAN</item>
+        <item>GERMAN</item>
+    </string-array>
+</resources>
